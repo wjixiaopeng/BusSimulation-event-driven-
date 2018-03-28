@@ -1,0 +1,6 @@
+Num_Buses: 5
+Num_Stops: 15
+Driving_Time: 300
+Boarding_Time: 2
+Stop_Time: 15000
+Mean_Arrival_Rate: 5
